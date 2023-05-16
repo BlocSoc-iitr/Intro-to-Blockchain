@@ -129,7 +129,7 @@ The best way to learn advanced topics is to learn from the best. The greatest mi
 * [@0xRajeev](https://twitter.com/0xRajeev)
 * [@StErMi](https://twitter.com/StErMi)
 * [@PatrickAlphaC](https://twitter.com/PatrickAlphaC)
-* [@pardy_v](https://twitter.com/prady_v)
+* [@prady_v](https://twitter.com/prady_v)
 <br>
 The industry is constantly growing and the only way to keep up is constantly learning. This repo is fileld with a lot of resources but there is a lot more content out there that's just as good. If you feel like this repo misses any crucial resources or you'd like to suggest some additional material then feel free to make a Pull Request. Let's keep this resource list active and up to date so it benefits anyone reading this.
 <br>
