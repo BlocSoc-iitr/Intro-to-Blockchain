@@ -71,6 +71,16 @@ By far the most complete and high quality tutorial on Solidity development is by
 <br>
 He also has a video with detailed guidance on [How to become a Blockchain Engineer](https://youtu.be/e1N4aWIJMN0)
 <br>
+<br>
+UPDATE
+<br>
+Since writing this, Patrick Collins has uploaded another course for foundry this time which is updated to all the latest alpha. The previous course is focused on hardhat and javascript while this one deals completely with solidity. You can choose which one to follow according to your convenience. 
+<br>
+<br>
+[PART1](https://youtu.be/umepbfKp5rI?feature=shared) <br>
+[PART2](https://youtu.be/sas02qSFZ74?feature=shared) <br>
+[PART3](https://youtu.be/wUjYK5gwNZs?feature=shared) <br>
+<br>
 After completing this course you should be able to create any project you can think of. If video tutorials are not your style and you prefer resources similar to crypto zombies then perhaps you can try out [LearnWeb3DAO](https://learnweb3.io/). The Freshmen track is perfect for anyone who has no expereience with blockchain whatsoever. LearnWeb3DAO with a lot of content and is just as good as the course by Patrick Collins.
 <br>
 <br>
@@ -129,7 +139,7 @@ The best way to learn advanced topics is to learn from the best. The greatest mi
 * [@0xRajeev](https://twitter.com/0xRajeev)
 * [@StErMi](https://twitter.com/StErMi)
 * [@PatrickAlphaC](https://twitter.com/PatrickAlphaC)
-* [@prady_v](https://twitter.com/prady_v)
+* [@pardy_v](https://twitter.com/prady_v)
 <br>
 The industry is constantly growing and the only way to keep up is constantly learning. This repo is fileld with a lot of resources but there is a lot more content out there that's just as good. If you feel like this repo misses any crucial resources or you'd like to suggest some additional material then feel free to make a Pull Request. Let's keep this resource list active and up to date so it benefits anyone reading this.
 <br>
