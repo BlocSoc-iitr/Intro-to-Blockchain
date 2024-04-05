@@ -120,11 +120,16 @@ Here is a list of a few resources that provide Alpha about the EVM:
 * [Ethereum Beige paper](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf)
 * [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 
+Patrick Collins has uploaded a series of videos that are great to learn smart contract auditing:
+* [EVM Opcodes and Gas](https://youtu.be/Yn58Jmkf2ow?si=JmIH7QF_47lBOzPW)
+* [Smart Contract Auditing Course](https://youtu.be/pUWmJ86X_do?si=B77vjGyWuB4wtJgA)
+  
 If after accumilating all this Alphs you feel like security and auiditing might be your thing, then you should check out out the [Secureum Bootcamp](https://secureum.substack.com/). Afetr that you can play CTFs and participate in competitions. Here's a list:
 * [Ethernaut](https://github.com/ethereumbook/ethereumbook)
 * [Capture the Ether](https://capturetheether.com/)
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
 * [Code4rena](https://code4rena.com/)
+* [CodeHawks](https://www.codehawks.com/)
 * [Sherlock](https://www.sherlock.xyz/)
 * [Immunefi](https://immunefi.com/)
 
