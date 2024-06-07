@@ -162,7 +162,8 @@ and more ...
 Vitalik also has a great blog on [Quadratic Arithmetic Programs](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
 <br>
 <br>
-There are many systems involved in zk like SNARKs, STARKs, PLonks, and more. The two most popular are SNARKs(used in circom) and PLonks(used in Halo2). This research paper titled [Why and How zk-SNARK Works](https://arxiv.org/pdf/1906.07221) gives a very definitive explaination of zk SNARKS and is a must read. Vitalik wrote a [blog](https://vitalik.eth.limo/general/2019/09/22/plonk.html) that explains plonks very well. 
+There are many systems involved in zk like SNARKs, STARKs, PLonks, and more. The two most popular are SNARKs(used in circom) and PLonks(used in Halo2). This research paper titled [Why and How zk-SNARK Works](https://arxiv.org/pdf/1906.07221) gives a very definitive explaination of zk SNARKS and is a must read. Vitalik wrote a [blog](https://vitalik.eth.limo/general/2019/09/22/plonk.html) that explains plonks very well. Other resources to understand SNARKs include a playlist from folks at PSE: 
+* [SNARK Fundamentals: A Complete Beginner's Introduction](https://www.youtube.com/watch?v=uchjTIlPzFo&list=PLS01nW3Rtgor_yJmQsGBZAg5XM4TSGpPs)
 <br>
 <br>
 The best way to learn how to write circuits is by following the lecture series by 0xparc.
@@ -176,6 +177,14 @@ More resources:
 * [zk Jargon Decoder](https://nmohnblatt.github.io/zk-jargon-decoder/foreword.html)
   
 ***
+If you prefer a Massive Open Online Course (MOOC) refer to ZKP MOOC. The course is designed by Dan Boneh (Stanford prof) and several other profs from prestigious universities. 
+* [ZKP MOOC](https://zk-learning.org/)
+<br>
+Other resources for advance studies:
+* 6.875, advanced theoretical cryptography guiding up to zk and lattices: [http://mit6875.org/](http://mit6875.org/)
+* 6.857, applied cryptography,  basic blockchains and hashing and applied zk: [https://courses.csail.mit.edu/6.857/2022/handouts](https://courses.csail.mit.edu/6.857/2022/handouts) (only notes, no videos)
+* Intro to ZK → [zkiap.com/](http://zkiap.com/)
+
 The industry is constantly growing and the only way to keep up is constantly learning. This repo is fileld with a lot of resources but there is a lot more content out there that's just as good. If you feel like this repo misses any crucial resources or you'd like to suggest some additional material then feel free to make a Pull Request. Let's keep this resource list active and up to date so it benefits anyone reading this.
 <br>
 <br>
