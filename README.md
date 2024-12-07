@@ -97,7 +97,7 @@ These youtube channels have great videos on various topics ranging from DeFi, NF
 Improving your knowledge everyday is the only way to stay ahead in this industry.
 <br>
 <br>
-Knowing about various DeFi protocols and how they work is important. Apart from watching videos from above channels, reading the wHitepapers of popular projects also gives a lot of technical insight into how they function.
+Knowing about various DeFi protocols and how they work is important. Apart from watching videos from above channels, reading the whitepapers of popular projects also gives a lot of technical insight into how they function.
 * [Uniswap v2](https://uniswap.org/whitepaper.pdf)
 * [Compound](https://compound.finance/documents/Compound.Whitepaper.pdf)
 * [Aave](https://academy.bit2me.com/wp-content/uploads/2021/07/Aave_Protocol_Whitepaper_v1_0.pdf)
@@ -175,6 +175,12 @@ More resources:
 * [Constructing zk-SNARKS](https://jtriley.substack.com/p/constructing-zk-snark-circuits)
 * [zk Jargon Decoder](https://nmohnblatt.github.io/zk-jargon-decoder/foreword.html)
   
+***
+
+### Defi - Additional Resources
+* [Snowball Defi Univerisity](https://docs.snowball.network/defi-university/introduction) - Cover all the topics in 1st, 2nd, 3rd and 4th year courses.
+* [Fluid](https://fluid.instadapp.io) - Fluid is an ever evolving Defi platform with highly efficient liquidity management. Can go through the codebase extensively.
+
 ***
 The industry is constantly growing and the only way to keep up is constantly learning. This repo is fileld with a lot of resources but there is a lot more content out there that's just as good. If you feel like this repo misses any crucial resources or you'd like to suggest some additional material then feel free to make a Pull Request. Let's keep this resource list active and up to date so it benefits anyone reading this.
 <br>
